@@ -1,9 +1,9 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: DartLife 
+tagline: DartLife
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  This is the website for the DartLife app.
 baseurl: "/"
 url: "https://hf532304.github.io"
 permalink: pretty
