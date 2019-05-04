@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: DartLife
+subtitle: This is the website for DartLife APP
 layout: page
 ---
 
