@@ -4,21 +4,19 @@ subtitle: This is the website for DartLife APP
 layout: page
 ---
 
-# Bulma Clean Theme demo website
+# Description
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Description: Unlike some big cities, Hanover does not provide us much entertainment. Most of students have no idea what to do in their leisure time. So we would like to design an application that can provide students some options about what to do, where to eat and what to read.Our app will have several parts, for example, in activity page people can share information of all kinds of activities including place, date etc. In movie page, people can search the movie that they are interested in. Also, they can write review and rate the movie.
 
-## Ruby Gem
+## Team member 
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+Molin Yang(C)
+
+Fan He
 
 ## GitHub Pages
 
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+https://github.com/hf532304/DartLife
 
 ## Instructions
 
